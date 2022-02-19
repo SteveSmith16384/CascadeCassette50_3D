@@ -17,52 +17,53 @@ script = ExtResource( 2 )
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 4.62897, 37.5007 )
 
 [node name="Ball" parent="." instance=ExtResource( 3 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.500427, 1.88836, 16.0915 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.500427, 1.25657, 16.0915 )
+can_sleep = false
 
 [node name="Pin" parent="." instance=ExtResource( 1 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.627701, 1.53135, -13.9178 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.627701, 1.53135, -10.19 )
 
 [node name="Pin5" parent="." instance=ExtResource( 1 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -1.20355, 1.53135, -13.9178 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -1.20355, 1.53135, -10.19 )
 
 [node name="Pin9" parent="." instance=ExtResource( 1 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.938658, 1.53135, -13.3419 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.938658, 1.53135, -9.61415 )
 
 [node name="Pin10" parent="." instance=ExtResource( 1 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.33978, 1.53135, -13.3419 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.33978, 1.53135, -9.61415 )
 
 [node name="Pin11" parent="." instance=ExtResource( 1 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.259098, 1.53135, -13.3419 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.259098, 1.53135, -9.61415 )
 
 [node name="Pin13" parent="." instance=ExtResource( 1 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.33978, 1.53135, -12.0866 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.33978, 1.53135, -8.35881 )
 
 [node name="Pin15" parent="." instance=ExtResource( 1 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.0224471, 1.53135, -11.4892 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.0224471, 1.53135, -7.76148 )
 
 [node name="Pin14" parent="." instance=ExtResource( 1 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.259098, 1.53135, -12.0866 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.259098, 1.53135, -8.35881 )
 
 [node name="Pin12" parent="." instance=ExtResource( 1 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.834942, 1.53135, -13.3419 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.834942, 1.53135, -9.61415 )
 
 [node name="Pin2" parent="." instance=ExtResource( 1 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.0308867, 1.53135, -13.9178 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.0308867, 1.53135, -10.19 )
 
 [node name="Pin3" parent="." instance=ExtResource( 1 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.555985, 1.53135, -13.9178 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.555985, 1.53135, -10.19 )
 
 [node name="Pin6" parent="." instance=ExtResource( 1 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.627701, 1.53135, -12.697 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.627701, 1.53135, -8.9692 )
 
 [node name="Pin7" parent="." instance=ExtResource( 1 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.0308867, 1.53135, -12.697 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.0308867, 1.53135, -8.9692 )
 
 [node name="Pin8" parent="." instance=ExtResource( 1 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.555985, 1.53135, -12.697 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.555985, 1.53135, -8.9692 )
 
 [node name="Pin4" parent="." instance=ExtResource( 1 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 1.14405, 1.53135, -13.9178 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 1.14405, 1.53135, -10.19 )
 
 [node name="StaticBody" type="StaticBody" parent="."]
 
@@ -73,3 +74,9 @@ shape = SubResource( 1 )
 width = 10.0
 depth = 34.0
 material = SubResource( 2 )
+
+[node name="RestartTimer" type="Timer" parent="."]
+wait_time = 7.0
+one_shot = true
+
+[connection signal="timeout" from="RestartTimer" to="." method="_on_RestartTimer_timeout"]
